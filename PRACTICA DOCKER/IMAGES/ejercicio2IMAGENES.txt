@@ -1,0 +1,5 @@
+Ejercicio 2 IMAGENES docker
+
+docker image ls (miro todas las imagenes de mi consola) 
+
+docker rmi (ID imagen) para eliminar la imagen

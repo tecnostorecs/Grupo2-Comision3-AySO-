@@ -1,0 +1,7 @@
+Ejercicio5 Docker
+
+docker run -d nginx 
+
+
+docker run ID/Nombre ps -a (muestra el contenido)
+

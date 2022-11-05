@@ -1,0 +1,5 @@
+Ejercicio1 imagenes
+
+docker image ls (miro todas las imagenes de mi consola)
+
+

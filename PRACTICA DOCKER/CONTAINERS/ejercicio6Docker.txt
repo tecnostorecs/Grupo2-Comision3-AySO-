@@ -1,0 +1,18 @@
+Ejercicio6 Docker
+
+
+docker run -d nginx
+
+
+vim index.htlm (creo el archivo htlm)
+
+vim dockerfile 
+FROM nginx
+
+
+COPY index.htlm /usr/share/nginx/htlm 
+(cambio la imagen del nginx por el index)
+
+
+
+
