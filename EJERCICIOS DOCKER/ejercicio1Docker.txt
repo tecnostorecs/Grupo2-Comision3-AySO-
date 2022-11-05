@@ -1,0 +1,9 @@
+Ejercicio1 Docker
+
+
+
+docker run -d nginx
+
+
+
+

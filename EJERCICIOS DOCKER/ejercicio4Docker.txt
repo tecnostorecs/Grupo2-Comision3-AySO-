@@ -1,0 +1,8 @@
+Ejercicio4 Practica Docker
+
+
+docker run -d nginx
+
+docker run -d -p 70:70 (conecta puerto nuestro, con el puerto del serividor)
+
+

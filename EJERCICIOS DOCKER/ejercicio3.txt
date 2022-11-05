@@ -1,0 +1,5 @@
+Ejercocio 3 Docker
+
+docker run -d nginx
+
+docker run --name contener_nginx

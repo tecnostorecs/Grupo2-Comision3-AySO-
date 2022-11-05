@@ -1,0 +1,9 @@
+Ejercicio 2 Docker
+
+docker run -d nginx (descargo imagen por detach)
+
+docker ps (docker status)
+
+docker run -f ID (borro contenedor)
+
+
