@@ -1,8 +1,4 @@
 FROM nginx:alpine
 COPY . /usr/share/nginx/html/test
 
-CMD ["nginx", "-g", "deamon off;"]
-
-
-
-
+CMD ["nginx", "-g", "daemon off;"]
