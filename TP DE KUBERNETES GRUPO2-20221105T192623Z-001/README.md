@@ -18,12 +18,12 @@ Tips:
 	
 INTRODUCTION
 
-once we enter the console we create the folder "nginx" to work with it <br>
+once we enter the console we create the folder "TP DE KUBERNETES GRUPO2" to work with it <br>
 <br>
-we are able to find the folder fllowing the next commands to see the path in our system <br>
+we are able to find the folder fllowing the next commands to see the path in our system: <br>
 pwd <br>
-/home/santi <br>
-cd nginx 
+/home/solchuuu <br>
+cd TP DE KUBERNETES GRUPO2 
 
 1) create INDEX.HTML <br>
 sudo vim index.html
@@ -37,7 +37,7 @@ docker build --tag v1 .
 4) create a container to test te image <br>
 docker run -d -p 8080:80 --name grupo2 v1
 
-5) once the container is created we can test the image with the port in the point 3 into your favourite <br>
+5) once the container is created we can test the image with the port <br>
 
 6) once the dockerhub user is created <br>
 docker tag v1:latest tecnostorecs/grupo2-tup:v1
@@ -55,7 +55,7 @@ minikube start --driver=docker
 alias kubectl="minikube kubectl --"
 
 11) create namespace <br>
-kubectl create ns grupo4
+kubectl create ns grupo2
 
 12) aplly the changes <br>
 kubectl apply -f docker-prueba.yaml
